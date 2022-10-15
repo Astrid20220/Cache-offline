@@ -70,5 +70,6 @@
     "yui"           : false,
     "globals"       : {
         "self" : true
+        "caches" : true
     }
 }
